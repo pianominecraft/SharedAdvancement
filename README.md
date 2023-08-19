@@ -1,5 +1,5 @@
 # SharedAdvancement
-도전과제 공유 플러그인
+도전과제 공유 플러그인 (1.20.1)
 
 https://youtu.be/qOhO61HreTI
 
