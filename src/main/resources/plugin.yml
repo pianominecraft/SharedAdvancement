@@ -1,0 +1,4 @@
+name: SharedAdvancement
+version: '${version}'
+main: com.pianominecraft.sharedadvancement.SharedAdvancement
+api-version: 1.20
